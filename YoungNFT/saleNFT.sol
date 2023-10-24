@@ -66,4 +66,5 @@ contract SaleNFT {
 
         _nft.priceInit(tokenId);
     }
+    // 판매자 수락하기
 }
